@@ -1,0 +1,11 @@
+D:\Laba_IPZ_1\Laba_IPZ_1\obj\Debug\netcoreapp3.1\Laba_IPZ_1.csprojAssemblyReference.cache
+D:\Laba_IPZ_1\Laba_IPZ_1\obj\Debug\netcoreapp3.1\Laba_IPZ_1.AssemblyInfoInputs.cache
+D:\Laba_IPZ_1\Laba_IPZ_1\obj\Debug\netcoreapp3.1\Laba_IPZ_1.AssemblyInfo.cs
+D:\Laba_IPZ_1\Laba_IPZ_1\bin\Debug\netcoreapp3.1\Laba_IPZ_1.exe
+D:\Laba_IPZ_1\Laba_IPZ_1\bin\Debug\netcoreapp3.1\Laba_IPZ_1.deps.json
+D:\Laba_IPZ_1\Laba_IPZ_1\bin\Debug\netcoreapp3.1\Laba_IPZ_1.runtimeconfig.json
+D:\Laba_IPZ_1\Laba_IPZ_1\bin\Debug\netcoreapp3.1\Laba_IPZ_1.runtimeconfig.dev.json
+D:\Laba_IPZ_1\Laba_IPZ_1\bin\Debug\netcoreapp3.1\Laba_IPZ_1.dll
+D:\Laba_IPZ_1\Laba_IPZ_1\bin\Debug\netcoreapp3.1\Laba_IPZ_1.pdb
+D:\Laba_IPZ_1\Laba_IPZ_1\obj\Debug\netcoreapp3.1\Laba_IPZ_1.dll
+D:\Laba_IPZ_1\Laba_IPZ_1\obj\Debug\netcoreapp3.1\Laba_IPZ_1.pdb
